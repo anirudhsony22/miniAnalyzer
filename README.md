@@ -16,7 +16,10 @@ A user can filter the data based on brushing on the plot. The dataset need to be
 * abalone.js, iris.js, penguins.js, scores.js - some example datasets that can be plotted
 * d3.js - d3 library
 
+Demo Video: [https://drive.google.com/file/d/1JAAeRKM4J3dH-sCXlmfDz2zSiQ1lqcsd/view?usp=sharing]
 
-## References
+<img width="1324" alt="Screenshot 2025-04-15 at 7 38 12 PM" src="https://github.com/user-attachments/assets/628d21f3-b44a-472f-910d-f304cf19b181" />
+
+<img width="1324" alt="Screenshot 2025-04-15 at 7 38 12 PM" src="https://github.com/user-attachments/assets/f0846733-1eff-46d2-ac00-5d581cca77c5" />
 
 
